@@ -1,0 +1,582 @@
+Leader_Ant algorithme bienvenue:Kich thuoc du lieu 900  3
+Nombre de MUST_LINK: 14
+(116,117)(119,120)(312,313)(405,406)(405,409)(503,504)(503,505)(603,606)(603,607)(617,625)(717,718)(717,723)(825,826)(825,828)
+Nombre de CANNOT_LINK: 3
+(719,819)(720,820)(317,417)
+beta: 0.78
+Cuoi = 2 : cac so bo sung 116  117  
+Cuoi = 2 : cac so bo sung 119  120  
+Cuoi = 2 : cac so bo sung 312  313  
+Cuoi = 3 : cac so bo sung 405  406  409  
+Cuoi = 3 : cac so bo sung 503  504  505  
+Cuoi = 3 : cac so bo sung 603  606  607  
+Cuoi = 2 : cac so bo sung 617  625  
+Cuoi = 3 : cac so bo sung 717  718  723  
+Cuoi = 3 : cac so bo sung 825  826  828  
+Nombre des clusters : 10
+
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
+5555555555555555555565655555555556555555555555555555555555566555565555555555656565655565665555566655
+7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+10101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+
+
+
+
+Art1
+Leader_Ant algorithme bienvenue:Kich thuoc du lieu 400  3
+Nombre de MUST_LINK: 8
+(101,102)(101,105)(112,113)(306,313)(141,142)(141,143)(301,302)(312,316)
+Nombre de CANNOT_LINK: 2
+(200,610)(299,301)
+beta: 0.75
+Cuoi = 3 : cac so bo sung 101  102  105  
+Cuoi = 2 : cac so bo sung 112  113  
+Cuoi = 3 : cac so bo sung 141  142  143  
+Cuoi = 2 : cac so bo sung 301  302  
+Cuoi = 2 : cac so bo sung 306  313  
+Cuoi = 2 : cac so bo sung 312  316  
+Nombre des clusters : 5
+
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+2222222222233232322232232233333332322233233222323333232223233232233322222332332332233233322223322232
+4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
+5555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555
+
+Art2
+Leader_Ant algorithme bienvenue:Kich thuoc du lieu 1000  3
+Nombre de MUST_LINK: 1
+(556,557)
+Nombre de CANNOT_LINK: 1
+(200,610)
+beta: 1.0
+Cuoi = 2 : cac so bo sung 556  557  
+Nombre des clusters : 2
+
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+
+
+Art3
+Leader_Ant algorithme bienvenue:Kich thuoc du lieu 1100  3
+Nombre de MUST_LINK: 8
+(501,502)(1,471)(608,609)(605,619)(601,560)(602,560)(603,560)(604,560)
+Nombre de CANNOT_LINK: 3
+(502,400)(505,400)(507,400)
+beta: 0.75
+Cuoi = 2 : cac so bo sung 1  471  
+Cuoi = 2 : cac so bo sung 501  502  
+Cuoi = 5 : cac so bo sung 560  601  602  603  604  
+Cuoi = 2 : cac so bo sung 605  619  
+Cuoi = 2 : cac so bo sung 608  609  
+Nombre des clusters : 4
+
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+22222222222222222222222222222222222222222222222222333333333333333333333333333333333333333333333333333333
+4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
+4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
+4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
+4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
+444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
+
+Art5
+Leader_Ant algorithme bienvenue:Kich thuoc du lieu 900  3
+Nombre de MUST_LINK: 14
+(116,117)(119,120)(312,313)(405,406)(405,409)(503,504)(503,505)(603,606)(603,607)(617,625)(717,718)(717,723)(825,826)(825,828)
+Nombre de CANNOT_LINK: 3
+(719,819)(720,820)(317,417)
+beta: 0.78
+Cuoi = 2 : cac so bo sung 116  117  
+Cuoi = 2 : cac so bo sung 119  120  
+Cuoi = 2 : cac so bo sung 312  313  
+Cuoi = 3 : cac so bo sung 405  406  409  
+Cuoi = 3 : cac so bo sung 503  504  505  
+Cuoi = 3 : cac so bo sung 603  606  607  
+Cuoi = 2 : cac so bo sung 617  625  
+Cuoi = 3 : cac so bo sung 717  718  723  
+Cuoi = 3 : cac so bo sung 825  826  828  
+Nombre des clusters : 9
+
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
+5555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555
+6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
+7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+
+/* Leader Ant avec des constraintes
+  ML: Must Link 
+  CL: cannot Link*/
+
+public class LeaderAnt_C {
+	
+	public static Double x[][] = new Double[12000][60];
+	public static int ML[][] = new int[300][3];
+	public static int CL[][] = new int[300][3];
+	public static int n;
+	public static int m;
+	public static int kq[][]= new int[2000][5000];
+	//public static int k=50;
+	public static double beta = 0.75;
+	public static int teta = 0;/*soybean = 3; iris =0; art1,2,3,4,5,6 = 1*/
+	
+	
+	/* Art1 = 0.75; Art2 = 1; Art3 = 0.75; Art4 = ; Art5= 0.78-0.8; Art6= 1.3; Iris = 2.6; Glass; Thyroid = 26; Soybean= 4; Pima =;   
+	 
+	 * test2 = ; test3, test thu nghiem = ; 
+	 * test4=  ; WINE 
+	 * test5: IRIS eps = 0.42, 
+	 * test6, eps = 1, statlog-heart
+	 * test8: Du lieu phuc tap*/
+	public static String fi="art3.data";
+	public static String fi1="art3_ML.inp";
+	public static String fi2="art3_CL.inp";
+	public static String fo="LeaderAnt_C.out";
+	
+	/*LeaderAnt1, 2,...*/
+	
+	
+	public static double distance(int i, int j)
+	 {   /* la distance entre i et j*/
+	  
+		int j1; double s=0;
+		for (j1=1;j1<=m;j1++)
+			s=s+(x[i][j1]-x[j][j1])*(x[i][j1]-x[j][j1]);
+		
+		return Math.sqrt(s);
+		
+	 }
+	
+/*	public static double distancecluster(int i, int j)
+	 {  
+	  
+		double min = 1000000;
+		int m1= kq[i][0]; 
+		int n1= kq[j][0];
+		for (int i1=1;i1<=m1;i1++)
+			for (int j1=1;j1<=n1;j1++)
+		      if (distance(kq[i][i1],kq[j][j1])< min)
+		    	  min=distance(kq[i][i1],kq[j][j1]);		      
+		
+		return min;		
+	 }*/
+	
+	
+	public static void main(String[] args)  throws Exception 
+	 {
+		
+		System.out.print("Leader_Ant algorithme bienvenue:");
+		 
+		  		  FileWriter fw;
+		 
+				  
+		  try
+		  {
+			fw=new FileWriter(fo);
+		  } catch(IOException exc)
+		  
+		  { System.out.println("Ne pas ouverir la fichier!");
+		    return;
+		  }
+		  
+		  /********************************************************************************/
+		  
+		  FileReader fr = new FileReader(fi);
+		  BufferedReader br=new BufferedReader(fr);
+		  String s;
+		  
+		  int i=0;
+		  String tg1;
+		  int k1;
+		  String s1;
+		  int j=0;
+		  
+		  while ((s=br.readLine())!=null)
+		     { 
+			  s=s.substring(0,s.length()-teta); /*Avec soybean*/ 
+			  s=s.replace(',',' ');
+			  /*System.out.print(s+"\n");*/
+			   i++; tg1=s;j=0;
+			   while (tg1.length()!=0)
+				{
+					
+					tg1=tg1+" ";
+					
+					
+					k1=tg1.indexOf(" ");
+					
+			
+					s1= tg1.substring(0,k1);
+					
+					j++;
+					x[i][j]=Double.parseDouble(s1);
+					
+					
+					tg1=tg1.substring(k1,tg1.length()); tg1=tg1.trim();
+					
+				}		   
+			   
+		       }
+		  	   
+		   fr.close();
+		   n=i;	m=j;  /*Kich thuoc du lieu, n hang m la so chieu cua du lieu, tinh tu (1, 1)*/
+			  
+		   System.out.print("Kich thuoc du lieu "+n+"  "+m+"\n");
+			  
+		   /****** Ket thuc doc du lieu *******************************************************/		  
+
+		      FileReader fr1= new FileReader(fi1);
+			  BufferedReader br1=new BufferedReader(fr1);
+			   int nom_ml=0;
+			   i=0;
+			  while ((s=br1.readLine())!=null)
+			     { 
+				   s=s.replace(',',' ');
+				   i++;tg1=s;j=0;
+				   while (tg1.length()!=0)
+					{
+						
+						tg1=tg1+" ";
+						
+						k1=tg1.indexOf(" ");
+				
+						s1= tg1.substring(0,k1);
+						
+						j++;
+						ML[i][j] = Integer.parseInt(s1);  
+						
+						tg1=tg1.substring(k1,tg1.length()); tg1=tg1.trim();
+						
+					}		   
+				   
+			       }
+			   nom_ml=i;
+			   fr1.close();
+			   
+			   System.out.print("Nombre de MUST_LINK: "+nom_ml +"\n");
+			   for (int kk=1; kk<=nom_ml; kk++)
+				   System.out.print("("+ML[kk][1]+","+ ML[kk][2]+")");
+			   System.out.print("\n");
+			  
+		/************Ket thuc doc ML**********************************************************************/
+		  
+			      FileReader fr2= new FileReader(fi2);
+				  BufferedReader br2=new BufferedReader(fr2);
+				   int nom_cl=0;
+				   i=0;
+				  while ((s=br2.readLine())!=null)
+				     { 
+					   s=s.replace(',',' ');
+					   i++;tg1=s;j=0;
+					   while (tg1.length()!=0)
+						{
+							
+							tg1=tg1+" ";
+							
+							
+							k1=tg1.indexOf(" ");
+							
+					
+							s1= tg1.substring(0,k1);
+							
+							j++;
+							CL[i][j]= Integer.parseInt(s1);
+							
+							
+							tg1=tg1.substring(k1,tg1.length()); tg1=tg1.trim();
+							
+						}		   
+					   
+				       }
+				   nom_cl=i;
+				   fr2.close();
+				   
+				   System.out.print("Nombre de CANNOT_LINK: "+nom_cl +"\n");
+				   for (int kk=1; kk<=nom_cl; kk++)
+					   System.out.print("("+CL[kk][1]+","+ CL[kk][2]+")");
+				   System.out.print("\n");
+			/************Ket thuc doc CL*****************************************************************************/
+		  
+		   
+		  	 /*Commencer l'algorithm Leader_Ant_C*/
+		  	 
+		     int nhan[]=new int[21000];
+	
+		  	  
+		  	/*Calculer la beta*/ 	
+		  	
+		    int i1;
+	  	
+	  		/*int NbLearn = n;
+		  	for (i=1;i<=NbLearn;i++)
+	 	  	{   
+		  		
+		  		do
+		  		{
+		  		double snn=Math.random();
+		  	    i1=(int)(snn*n);
+	  	        snn=Math.random();
+		  	    j1=(int)(snn*n);}
+		  	    while ((i1==0) || (j1==0) || (i1==j1));
+		  	    
+		  	    { 
+		  		  beta+=distance(i1,j1);}	  		
+		  	}
+		  	
+		  	beta=beta/NbLearn;*/
+		  	  
+		  	/*HHHHHHHHHHHHHHHHH*/
+		  	 
+		  	 
+		  	
+		  	System.out.println("beta: "+beta);
+		  	
+		  	 /* Mang chua moi dong la 1 cluster*/
+		  	
+		  	int socluster=0;
+		  	int flag[]= new int[10000];
+		  	
+		  	for (i=1;i<=n;i++)
+		  		flag[i]=1;
+		  	
+		  	for (i=1;i<=n;i++)
+		  	if (flag[i]==1)
+		  	if (1==0)
+		  	  {
+		  		
+		  	    /*Mis a jour le ML*/
+		  		/*Tao mot ngan xep cho viec tim kiem theo chieu rong- Crée un stack pour chercher des points relation*/
+		  		/* socluster++; kq[1][0]=1; kq[1][1]=1;nhan[i]=socluster;flag[i]=0;
+		  		 int stack[]= new int[100];
+		  		
+		  		  stack[1]= i;
+		  		  int dau=1; 
+		  		  int cuoi=1;
+		  		  while (dau<=cuoi)
+		  		   {  
+		  			for (int tt1=1; tt1<=nom_ml; tt1++)
+		  			   {
+		  				if ((ML[tt1][1]==stack[dau]) & (flag[ML[tt1][2]]==1))
+		  				 {cuoi++; stack[cuoi]= ML[tt1][2];flag[ML[tt1][2]]=0;}
+		  				
+		  				if ((ML[tt1][2]==stack[dau]) & (flag[ML[tt1][1]]==1))
+		  				 {cuoi++; stack[cuoi]= ML[tt1][1];flag[ML[tt1][1]]=0;} 	
+			  				
+		  			   }
+		  		 	  dau++; 
+		  		   }  
+		  			  
+		  		if (cuoi>1)
+		  		{	
+		  		  System.out.print("Cuoi = "+cuoi+" : cac so bo sung ");
+		  		   for (int tt1=1; tt1<=cuoi; tt1++)
+		  			System.out.print(stack[tt1]+"  ");  
+		  		    System.out.print("\n");
+		  		    
+		  		  
+		  		   for (int tt1=2; tt1<=cuoi; tt1++)
+		  		    {nhan[stack[tt1]]=socluster;kq[i][0]++;kq[i][kq[i][0]]=stack[tt1];}  
+		  		}*/  
+		  		
+		  	  
+		  	   }
+		  	
+		  	 else
+		  	   { 
+		  		
+		  		
+		  		/*Chercher un nid pour fourmi i */
+		  		
+		  		int vitri=0; double min=-1.0;
+		  		for (j=1;j<=socluster;j++)
+		  	     
+		  	     { 
+		  			/*Kiem tra phan tu i co vi pham CL voi cluster j hay khong???
+		  			  Kiem tra xem i co xuat hien trong cluater co vi pham ML*/
+		  			int ok=0;
+		  			
+		  			for (int tt1=1; tt1<=nom_cl; tt1++)
+		  			  {
+		  				for (int tt2=1; tt2<=kq[j][0]; tt2++)
+		  				  { if ((CL[tt1][1]==i) & (CL[tt1][2]==kq[j][tt2]))
+		  					  ok=1;
+		  				    if ((CL[tt1][2]==i) & (CL[tt1][1]==kq[j][tt2]))
+		  					  ok=1; 
+		  				  }
+		  					
+		  			  }
+		  			
+		  			if (ok ==0)
+		  			{
+		  			
+		  			double kc=0.0;  
+		  			int Nbmeeting; 
+		  		    if (kq[j][0]<50)
+		  		    	Nbmeeting=kq[j][0];
+		  		    else
+		  		    	Nbmeeting= 50;
+		  		    		  		   
+		  		   
+		  		    for (int k=1;k<=Nbmeeting;k++)
+		  		      {
+		  		        if (kq[j][0]>1)
+		  		    	do
+		  		         {
+		  		    	   double snn=Math.random();
+			  	           i1=(int)(snn*kq[j][0]); 
+			  	         } 
+		  		        while (i1==0);
+		  		        else i1=1;
+		  		        
+		  		       kc=kc+distance(kq[j][i1],i);
+		  		          
+		  		      }
+		  		    
+		  		    kc=kc/Nbmeeting;
+		  		    		  		   
+		  		  
+		  		    if ((min<0) & (kc<=beta))
+	  	              {min=kc; vitri=j;}
+	  	            
+	  	            if ((kc<=beta) & (kc<min))
+	  	              {min=kc; vitri=j;}
+	  	            
+	  	            
+		  	        } /*ok*/
+		  	       }
+		  		 
+		  		
+		  		  if (vitri>0)
+		            {kq[vitri][0]++;kq[vitri][kq[vitri][0]]=i;nhan[i]=vitri; flag[i]=0;
+		             /*mis a jour ML*/
+		             int stack[]= new int[100];
+				  		
+			  		  stack[1]= i;
+			  		  int dau=1; 
+			  		  int cuoi=1;
+			  		  while (dau<=cuoi)
+			  		   {  
+			  			for (int tt1=1; tt1<=nom_ml; tt1++)
+			  			   {
+			  				if ((ML[tt1][1]==stack[dau]) & (flag[ML[tt1][2]]==1))
+			  				 {cuoi++; stack[cuoi]= ML[tt1][2];flag[ML[tt1][2]]=0;}
+			  				
+			  				if ((ML[tt1][2]==stack[dau]) & (flag[ML[tt1][1]]==1))
+			  				 {cuoi++; stack[cuoi]= ML[tt1][1];flag[ML[tt1][1]]=0;} 	
+				  				
+			  			   }
+			  		 	  dau++; 
+			  		   }  
+			  			
+			  		if (cuoi>1)
+			  		{ System.out.print("Cuoi = "+cuoi+" : cac so bo sung ");
+			  		  for (int tt1=1; tt1<=cuoi; tt1++)
+				  			System.out.print(stack[tt1]+"  ");
+			  			    System.out.print("\n");
+			  		 
+			  		  
+			  		   for (int tt1=2; tt1<=cuoi; tt1++)
+			  		    {nhan[stack[tt1]]=socluster;kq[i][0]++;kq[i][kq[i][0]]=stack[tt1];}  
+		             
+			  		} 
+		             
+		             
+		              }	
+		            else	
+		             { socluster++; 
+		               kq[socluster][0]=1;kq[socluster][1]=i; nhan[i]=socluster;flag[i]=0; /*Can them vao*/
+		               /*mis a jour ML*/
+		                 int stack[]= new int[100];
+				  		
+				  		  stack[1]= i;
+				  		  int dau=1; 
+				  		  int cuoi=1;
+				  		  while (dau<=cuoi)
+				  		   {  
+				  			for (int tt1=1; tt1<=nom_ml; tt1++)
+				  			   {
+				  				if ((ML[tt1][1]==stack[dau]) & (flag[ML[tt1][2]]==1))
+				  				 {cuoi++; stack[cuoi]= ML[tt1][2];flag[ML[tt1][2]]=0;}
+				  				
+				  				if ((ML[tt1][2]==stack[dau]) & (flag[ML[tt1][1]]==1))
+				  				 {cuoi++; stack[cuoi]= ML[tt1][1];flag[ML[tt1][1]]=0;} 	
+					  				
+				  			   }
+				  		 	  dau++; 
+				  		   }  
+				  		
+				  		if (cuoi>1)
+				  		{	
+				  		   System.out.print("Cuoi = "+cuoi+" : cac so bo sung ");
+				  		  for (int tt1=1; tt1<=cuoi; tt1++)
+					  			System.out.print(stack[tt1]+"  ");
+				  		System.out.print("\n");
+				  		 
+				  		  
+				  		   for (int tt1=2; tt1<=cuoi; tt1++)
+				  		    {nhan[stack[tt1]]=socluster;kq[i][0]++;kq[i][kq[i][0]]=stack[tt1];}  
+		               
+				  		}
+		               
+		             
+		               }
+		  		        
+		  	  } /*else */
+
+		  
+		    System.out.println("Nombre des clusters : "+socluster+"\n");
+		  
+		  	
+		   	int kk;int dem=0;
+		  	for (kk=1;kk<=n;kk++)
+		  	  {
+		  		if ((kk<=500) & (nhan[kk]!=1))
+		  		 dem++;
+		  		
+		  			if ((kk<=550) & (nhan[kk]!=2)& (kk>=501))
+		  				dem++;
+		  			
+		  				if ((kk<=600) & (nhan[kk]!=3)& (kk>=551))
+		  					dem++;
+		  			
+		  					if ((kk>=601) & (nhan[kk]!=4)& (kk>=601))
+		  						dem++;
+		  		fw.write(nhan[kk]+"\n");  
+		  		System.out.print(nhan[kk]);
+		  	  }   
+		  	  
+		  	fw.close(); dem=0;
+		  	for (kk=101;kk<=n;kk++)
+		  		if (nhan[kk]!=3)
+		  			dem++;
+		  	/*System.out.print("\n");*/	  	
+		  	/*System.out.print("  " +dem);*/
+		  	 
+	 }/*main*/
+
+}

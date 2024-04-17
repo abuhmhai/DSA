@@ -1,0 +1,16 @@
+Mode d'emploi
+
+Visual.java
+   Visual des données en 2D
+ 
+Visual_spectral1.java
+  Visual des résultats pour collecter des contraintes comme graphe
+ 
+HCC_Rand
+  Hierarchical clustering with constraints : Choosing the best partition for result  
+
+HCC_RandomLabel
+  Hierarchical clustering with randomly choosing constraints from label
+
+tinhLDS
+  Calculate the LDS score for each constraints  

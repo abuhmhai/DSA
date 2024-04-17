@@ -1,0 +1,144 @@
+Art1
+
+2% des contraintes, 4ML ,4 CL
+
+LACC
+C'est fini dem = 357
+C'est fini dem = 357
+C'est fini dem = 359
+C'est fini dem = 358
+C'est fini dem = 357
+C'est fini dem = 357
+C'est fini dem = 357
+C'est fini dem = 359
+C'est fini dem = 358
+C'est fini dem = 357
+
+HCC
+ C'est fini dem = 193 +25
+ C'est fini dem = 266
+ C'est fini dem = 265
+ C'est fini dem = 210
+ C'est fini dem = 211
+ C'est fini dem = 193 +25
+ C'est fini dem = 266
+ C'est fini dem = 265
+ C'est fini dem = 210
+ C'est fini dem = 211
+
+CDBSCAN
+C'est fini dem = 210 +15
+C'est fini dem = 257
+C'est fini dem = 258
+C'est fini dem = 211 +15
+C'est fini dem = 259
+C'est fini dem = 210 +15
+C'est fini dem = 257
+C'est fini dem = 258
+C'est fini dem = 211 +15
+C'est fini dem = 259
+
+8 ML+ 8CL
+LACC
+
+C'est fini dem = 359
+C'est fini dem = 354
+C'est fini dem = 358
+C'est fini dem = 358
+C'est fini dem = 363
+C'est fini dem = 361
+
+HCC
+C'est fini dem = 210
+C'est fini dem = 218
+C'est fini dem = 215
+C'est fini dem = 210
+C'est fini dem = 266
+C'est fini dem = 210
+C'est fini dem = 210
+C'est fini dem = 265
+C'est fini dem = 210
+C'est fini dem = 210
+
+
+CDBSCAN
+C'est fini dem = 201
+C'est fini dem = 212
+C'est fini dem = 211
+C'est fini dem = 212
+C'est fini dem = 211
+C'est fini dem = 201
+C'est fini dem = 212
+C'est fini dem = 211
+C'est fini dem = 212
+C'est fini dem = 211
+
+12ML + 12CL
+
+LACC
+C'est fini dem = 363
+C'est fini dem = 360
+C'est fini dem = 360
+C'est fini dem = 360
+C'est fini dem = 362
+C'est fini dem = 358
+C'est fini dem = 361
+C'est fini dem = 361
+C'est fini dem = 363
+C'est fini dem = 361
+C'est fini dem = 363
+
+HCC
+
+
+CDBSCAN
+C'est fini dem = 259
+C'est fini dem = 259
+C'est fini dem = 259
+C'est fini dem = 259
+C'est fini dem = 259
+
+16ML, 16CL
+
+LACC
+C'est fini dem = 358
+C'est fini dem = 358
+C'est fini dem = 360
+C'est fini dem = 365
+C'est fini dem = 365
+C'est fini dem = 359
+C'est fini dem = 361
+C'est fini dem = 361
+C'est fini dem = 360
+C'est fini dem = 360
+
+HC
+
+
+CDBSCAN
+
+20ML 20 CL
+
+LACC
+C'est fini dem = 362
+C'est fini dem = 355
+C'est fini dem = 362
+C'est fini dem = 361
+C'est fini dem = 363
+C'est fini dem = 360
+C'est fini dem = 360
+C'est fini dem = 362
+C'est fini dem = 364
+C'est fini dem = 365
+
+
+
+
+
+
+
+HCC
+
+CDBSCAN
+
+
