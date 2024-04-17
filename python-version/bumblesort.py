@@ -1,5 +1,5 @@
 
-def bubble_sort(a):
+def bumble_sort(a):
   swapped = True
   while swapped:
     swapped = False
@@ -11,6 +11,6 @@ def bubble_sort(a):
   return a
 
 a=[23,43,2,7,9,3]
-sorted_array=bubble_sort(a)
+sorted_array=bumble_sort(a)
 
 print("sorted arrays: ", sorted_array)
